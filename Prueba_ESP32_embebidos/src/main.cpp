@@ -9,7 +9,7 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  // Esto es una prueba sencilla para subir cambios a GitHub
 }
 
 // put function definitions here:
