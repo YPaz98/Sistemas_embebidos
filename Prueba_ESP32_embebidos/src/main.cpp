@@ -10,6 +10,7 @@ void setup() {
 
 void loop() {
   // Esto es una prueba sencilla para subir cambios a GitHub
+ //  Proyecto con ESP32
 }
 
 // put function definitions here:
