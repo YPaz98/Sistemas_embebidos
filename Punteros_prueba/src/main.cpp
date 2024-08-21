@@ -22,7 +22,7 @@ void loop() {
   duplicar(&numero); // & numero significa que le paso la direccion de memoria de la variable numero
   delay(1000); // 1 segundo de espera
 }
-
+// FElipe es el máximo
 //El operador direccion de memoria & se utiliza para obtener la direccion de memoria de una variable
 //El operador indireccion * se utiliza para acceder al valor de la direccion de memoria que se le pasa
 
