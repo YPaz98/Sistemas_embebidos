@@ -34,6 +34,5 @@ void loop() {
   } else {
       Serial.print("Error en readSample()\n");
   }
-
-  delay(1000);
+  delay(1000);
 }
